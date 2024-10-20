@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Nagesh Avhad
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Python, SQL, NodeJS
-- 💞️ I’m looking to collaborate on ...
-- 📫 Reach me at nagesh.avhad28@gmail.com
+- 📫 Reach me at nagesh.avhad28@gmail.com / +91 9307109400
 
 <!---
 nageshavhad/nageshavhad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
